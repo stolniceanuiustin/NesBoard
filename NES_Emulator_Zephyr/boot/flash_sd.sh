@@ -9,7 +9,7 @@ ROMS=ADI_Temp/Licenta
 UBOOT=u-boot
 
 # Vivado bitstream — update this path after each Vivado build
-BITSTREAM=${BITSTREAM:-"ADI_Temp/Licenta/design_1_wrapper.bit"}
+BITSTREAM=${BITSTREAM:-"/mnt/c/users/istolnic/Licenta/NesBoard/NesBoard.runs/impl_1/design_1_wrapper.bit"}
 
 # ----------------------------------------------------------------
 # Sanity checks
